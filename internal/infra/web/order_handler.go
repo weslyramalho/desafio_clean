@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/entity"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/usecase"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/pkg/events"
+	"github.com/weslyramalho/desafio_clean/internal/entity"
+	"github.com/weslyramalho/desafio_clean/internal/usecase"
+	"github.com/weslyramalho/desafio_clean/pkg/events"
 )
 
 type WebOrderHandler struct {

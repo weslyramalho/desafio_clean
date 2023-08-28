@@ -16,7 +16,7 @@ import (
 	"github.com/99designs/gqlgen/graphql/introspection"
 	gqlparser "github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/infra/graph/model"
+	"github.com/weslyramalho/desafio_clean/internal/infra/graph/model"
 )
 
 // region    ************************** generated!.gotpl **************************

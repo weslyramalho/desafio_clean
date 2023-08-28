@@ -1,6 +1,6 @@
 package graph
 
-import "github.com/weslyramalho/GO/tree/main/clean_arch/internal/usecase"
+import "github.com/weslyramalho/desafio_clean/internal/usecase"
 
 // This file will not be regenerated automatically.
 //

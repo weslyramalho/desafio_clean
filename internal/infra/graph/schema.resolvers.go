@@ -7,8 +7,8 @@ package graph
 import (
 	"context"
 
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/infra/graph/model"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/usecase"
+	"github.com/weslyramalho/desafio_clean/internal/infra/graph/model"
+	"github.com/weslyramalho/desafio_clean/internal/usecase"
 )
 
 // CreateOrder is the resolver for the createOrder field.

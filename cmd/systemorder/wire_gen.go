@@ -9,12 +9,12 @@ package main
 import (
 	"database/sql"
 	"github.com/google/wire"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/entity"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/event"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/infra/database"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/infra/web"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/usecase"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/pkg/events"
+	"github.com/weslyramalho/desafio_clean/internal/entity"
+	"github.com/weslyramalho/desafio_clean/internal/event"
+	"github.com/weslyramalho/desafio_clean/internal/infra/database"
+	"github.com/weslyramalho/desafio_clean/internal/infra/web"
+	"github.com/weslyramalho/desafio_clean/internal/usecase"
+	"github.com/weslyramalho/desafio_clean/pkg/events"
 )
 
 // Injectors from wire.go:

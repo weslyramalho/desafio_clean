@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/suite"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/entity"
+	"github.com/weslyramalho/desafio_clean/internal/entity"
 
 	// sqlite3
 	_ "github.com/mattn/go-sqlite3"

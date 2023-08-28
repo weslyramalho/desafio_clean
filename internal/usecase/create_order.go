@@ -1,8 +1,8 @@
 package usecase
 
 import (
-	"github.com/weslyramalho/GO/tree/main/clean_arch/internal/entity"
-	"github.com/weslyramalho/GO/tree/main/clean_arch/pkg/events"
+	"github.com/weslyramalho/desafio_clean/internal/entity"
+	"github.com/weslyramalho/desafio_clean/pkg/events"
 )
 
 type OrderInputDTO struct {
